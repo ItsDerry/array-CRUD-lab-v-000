@@ -6,7 +6,7 @@ def create_an_array
   queens_of_pop = ["Madonna", "Britney", "Lady Gaga", "Rihanna"]
 end
 
-def add_element_to_end_of_array(queens_of_pop, "beyonce")
+def add_element_to_end_of_array(queens_of_pop, Beyonce)
   queens_of_pop << "Beyonce"
 end
 
